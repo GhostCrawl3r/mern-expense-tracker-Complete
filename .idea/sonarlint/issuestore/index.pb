@@ -17,3 +17,31 @@ K
 Config/db.js,5/1/513f99f25026a64ed8f85ae91a0fc30872213ad1
 C
 Client/package.json,6/a/6acbd275964f613bd8bce3dfe35f5cdf17b4eaff
+P
+ client/src/context/AppReducer.js,d/6/d6af1d453c98cdaae86c8f8f772c9f5d254f9d96
+H
+client/package-lock.json,2/6/26a733df8ec5f9ebc34add7f3b884bb18c2b5048
+@
+client/yarn.lock,1/2/129d2652724077646f57bb16e956795891e09cf9
+@
+client/README.md,3/1/31751a40848e21a3ce2e507e324ffd46e5b7b710
+9
+	yarn.lock,5/3/53585a096fe3a3b96321113856ae62602995a33b
+H
+client/public/index.html,8/1/818a76598cddfc0ac5e6740251b5b4dc9ff67f2c
+K
+client/public/manifest.json,2/5/253fc91369b428e8530c1e5206f921d081515f15
+H
+client/public/robots.txt,b/d/bd6eb45ab686cf67dd2d7534b5cf1e4a1e8cc874
+B
+client/src/App.css,2/a/2a082b18bfc3afa6b25d6c4584e995e6b6c4ee3e
+A
+client/src/App.js,f/6/f6b8a135eb07bb80aa582994bcf1a8ccacd783ee
+C
+client/src/index.js,7/6/76cbb38a5cef42611c7af13985f39248682f4aa1
+A
+client/.gitignore,e/3/e32ec5c998c4774d8d1bedd59740d14d940c90ec
+C
+client/package.json,a/d/ad8a30996233c30cdd545dbf5f18765b86e6bf64
+Q
+!client/src/context/GlobalState.js,2/8/28e86580b9d5a15b8bd0e13cbf9e19a73a3f59d3
